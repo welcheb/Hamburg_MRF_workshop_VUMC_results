@@ -1,0 +1,5 @@
+filename,URL,folder,MD5
+VUMC_MRF_210_images.zip,https://github.com/welcheb/Hamburg_MRF_workshop_VUMC_results/releases/download/v0.1.0/VUMC_MRF_210_images.zip,../data_input/,13477429ba1d54b590f5f6e3c4951f98
+VUMC_MRF_500_images.zip,https://github.com/welcheb/Hamburg_MRF_workshop_VUMC_results/releases/download/v0.1.0/VUMC_MRF_500_images.zip,../data_input/,3034e105bfdd20fbf6547e9fca005dc4
+VUMC_MRF_1000_images.zip,https://github.com/welcheb/Hamburg_MRF_workshop_VUMC_results/releases/download/v0.1.0/VUMC_MRF_1000_images.zip,../data_input/,5c083417409d8c877eecb988167fbd71
+VUMC_MRF_DICT.zip,https://github.com/welcheb/Hamburg_MRF_workshop_VUMC_results/releases/download/v0.1.0/VUMC_MRF_DICT.zip,../data_input/,db0eb8410c1250ddb0089a5de99c5b3c
