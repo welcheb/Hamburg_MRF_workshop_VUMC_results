@@ -1,0 +1,15 @@
+# MATLAB
+*.*~
+
+# MAC OS X
+.DS_Store
+
+# data input and output folders
+# only compressed input data, code, instruction text files and resulting figures (PDF, PNG, etc.)
+# appear in this GIT repository
+data_input/*
+data_output/*
+
+# pay attention to README.md inside data and figures folders
+!data_input/README.md
+!data_output/README.md
