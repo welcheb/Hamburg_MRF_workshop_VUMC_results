@@ -12,8 +12,14 @@
 #### VUMC_MRF_1000_TE5.0_US
 ![VUMC_MRF_1000_TE5.0_US](magnitude_of_complex_sum_VUMC_MRF_1000_TE5.0_US.png)
 
+#### VUMC_MRF_210_TE3.3_FSC
+![VUMC_MRF_210_TE3.3_US](magnitude_of_complex_sum_VUMC_MRF_210_TE3.3_FSC.png)
+
 #### VUMC_MRF_210_TE3.3_US
 ![VUMC_MRF_210_TE3.3_US](magnitude_of_complex_sum_VUMC_MRF_210_TE3.3_US.png)
+
+#### VUMC_MRF_210_TE4.0_FSC
+![VUMC_MRF_210_TE4.0_US](magnitude_of_complex_sum_VUMC_MRF_210_TE4.0_FSC.png)
 
 #### VUMC_MRF_210_TE4.0_US
 ![VUMC_MRF_210_TE4.0_US](magnitude_of_complex_sum_VUMC_MRF_210_TE4.0_US.png)
